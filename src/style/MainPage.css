@@ -1,0 +1,8 @@
+.articlesBlock {
+  width: 80%;
+  height: 100%;
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
